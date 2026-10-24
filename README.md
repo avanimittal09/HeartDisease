@@ -1,5 +1,5 @@
 # HeartDisease
-This project explores binary classification on tabular medical data. The model analyzes various health metrics (such as blood pressure, cholesterol, and age) to assess a patient's risk profile. The pipeline focuses heavily on proper data hygiene—including feature scaling and stratified data partitioning—to prevent data leakage and ensure reliable evaluation.
+This project explores binary classification on tabular medical data. The model analyzes various health metrics (such as blood pressure, cholesterol, and age) to assess a patient's risk profile. The pipeline focuses heavily on proper data hygiene including feature scaling and stratified data partitioning to prevent data leakage and ensure reliable evaluation.
 
 Tech Stack & Libraries
 Python
